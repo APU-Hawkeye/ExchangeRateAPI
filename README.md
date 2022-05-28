@@ -1,1 +1,1 @@
-##
+##API service which provides free exchange rate from EUR to various currencies using Fixer.io
