@@ -1,0 +1,20 @@
+{
+    "name": "swarup/exchange-rate-api",
+    "description": "API service which provides free exchange rate from EUR to various currencies",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Swarup\\ExchangeRateApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hawkeye",
+            "email": "swarup@agpaytech.co.uk"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
